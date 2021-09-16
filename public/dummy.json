@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+
+{
+    "count": 15,
+    "next": "https://pokeapi.co/api/v2/pokemon/?offset=20&limit=20",
+    "previous": null,
+    "results": [
+      {
+        "id": 1,
+        "volanta": "Se conoció a la medianoche",
+        "bajada": "Cuánto costará el dólar y hasta dónde llegará la inflación según el ministro de Economía",
+        "img_nota": "https://resizer.glanacion.com/resizer/fbcKFKmUDC3mVgKeClSTsYZD1-g=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/KDLRVGGM5RDBJNS35657M4LTDI.jpg",
+        "nombre_autor": "Francisco Jueguen",
+        "url_nota": "www.lanacion.com.ar"
+      },
+      {
+        "id": 2,
+        "titulo": "Crisis en el Gobierno: Cafiero llegó a la Casa Rosada en un día de definiciones",
+        "volanta": "Última hora",
+        "bajada": "Seguí en LA NACION la cobertura minuto a minuto de las tensiones en el Frente de Todos",
+        "img_nota": "https://resizer.glanacion.com/resizer/3G5TqT5Q4dQfjc8rQnw6dLN-X9s=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/USONONSIUVCV7NTFDVPARBHMEE.JPG",
+        "nombre_autor": "Paula Rossi",
+        "img_autor": "",
+        "url_nota": "www.lanacion.com.ar"
+      },
+      {
+        "id": 3,
+        "titulo": "Crisis en el Gobierno: en un día de definiciones, Alberto Fernández busca sumar apoyos",
+        "volanta": "Última hora",
+        "bajada": "El Presidente se reunió esta mañana con el gobernador sanjuanino, Sergio Uñac; Santiago Cafiero ya está en la Casa Rosada y se espera una jornada de fuertes negociaciones",
+        "img_nota": "https://resizer.glanacion.com/resizer/1fX_o6yAjXm8_GjOkILfZyH5sj4=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/OXZ327HQTNFHVBILZJ2GO7IZ4I.jpg",
+        "nombre_autor": "Paula Rossi",
+        "url_nota": "www.lanacion.com.ar"
+      },
+      {
+        "id": 4,
+        "volanta": "Lo que vendrá",
+        "bajada": "Consultores políticos opinan sobre el impacto de la renuncia masiva de ministros",
+        "img_nota": "https://resizer.glanacion.com/resizer/gJXUi4YEDw1M_v9JmTZeNuOVOas=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/4K7OPEAKXRA2VNYIBR3QYFA2LA",
+        "marquesina": "Opinión",
+        "nombre_autor": "Diego Sánchez",
+        "img_autor": "",
+        "url_nota": ""
+      },
+      {
+        "id": 5,
+        "titulo": "",
+        "volanta": "Descuento",
+        "bajada": "Qué jubilaciones pagan impuesto a la ganancias desde este mes",
+        "img_nota": "https://resizer.glanacion.com/resizer/nR2VW1j34K6t…ing.com/lanacionar/5D7WWA5PMNHBHJA4KOQKK3ITBE.jpg",
+        "marquesina": "",
+        "nombre_autor": "Silvia Stang",
+        "img_autor": "",
+        "url_nota": ""
+      },
+      {
+        "id": 6,
+        "titulo": "",
+        "volanta": "Crisis",
+        "bajada": "Alberto Fernández llamó a los movimientos sociales y la marcha de apoyo quedó suspendida",
+        "img_nota": "https://resizer.glanacion.com/resizer/_BWrcsgpSS9S…ng.com/lanacionar/VZKVSHXMJ5FBNFDJQEIYLQAQQA.jpeg",
+        "marquesina": "",
+        "nombre_autor": "Cecilia Devanna",
+        "img_autor": "",
+        "url_nota": ""
+      }, 
+      {
+        "id": 7,
+        "titulo": "Fernández: La gestión de gobierno seguirá desarrollándose del modo que yo estime conveniente",
+        "volanta": "Última hora",
+        "bajada": "El Presidente escribió un mensaje en las redes; agradeció el apoyo de gobernadores e intendentes y dijo que seguirá garantizando la unidad del Frente de Todos",
+        "img_nota": "https://resizer.glanacion.com/resizer/Wmk1yFLTeyHDKzOp3p4el20xluw=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/J6LCW3Q7VVG5HP4Z4KPXSUM5OI.JPG",
+        "marquesina": "",
+        "nombre_autor": "Paula Rossi",
+        "img_autor": "",
+        "url_nota": ""
+      },
+      {
+        "id": 8,
+        "volanta": "Dura columna de un hombre del Papa",
+        "bajada": "Presidente, queda poco tiempo",
+        "img_nota": "https://resizer.glanacion.com/resizer/0D0XD8jy9BjSd5abHTUIlUCjwlw=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/4CWAYXPSIRAJPBJGF2JWVOYBPI.jpg",
+        "url_nota": ""
+      },
+      {
+        "id": 9,
+        "titulo": "",
+        "volanta": "Dólar hoy",
+        "bajada": "En medio de la tensión política, el blue vuelve a subir y alcanza el máximo del año",
+        "img_nota": "https://resizer.glanacion.com/resizer/YmRZJ6g9e1JjQW-pbYgR7WFDnS8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/QHY6MAYYVRAEDJADQITEF725Q4.jpg",
+        "nombre_autor": "Melisa Reinhold",
+        "url_nota": ""
+      },
+      {
+        "id": 10,
+        "titulo": "",
+        "volanta": "Cristina vs. Alberto",
+        "bajada": "El conflicto más grave desde el colapso del 2001",
+        "nombre_autor": "Claudio Jacquelin",
+        "img_autor": "https://resizer.glanacion.com/resizer/hU7XX_qeTEget-87P9GXPo-qpso=/80x0/filters:quality(80)/s3.amazonaws.com/arc-authors/lanacionar/2279647.png",
+        "url_nota": ""
+      },
+      {
+        "id": 11,
+        "titulo": "",
+        "volanta": "Análisis",
+        "bajada": "Un Gobierno chamuscado por una bomba que él mismo armó",
+        "img_nota": "https://resizer.glanacion.com/resizer/BWGkQ13G0xIdep-6rXL3RK6LAFQ=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/VM5KSUHBIZGEXCU6OELOKEZSSI.jpg",
+        "marquesina": "",
+        "nombre_autor": "Diego Cabot",
+        "img_autor": "",
+        "url_nota": ""
+      },
+      {
+        "id": 12,
+        "titulo": "A quiénes vacunarán con las dosis norteamericanas la Ciudad y la Provincia",
+        "volanta": "Llegó Pfizer",
+        "bajada": "Los gobiernos bonaerense y porteño adoptaron diferentes criterios; la opinión de los infectólogos",
+        "img_nota": "https://resizer.glanacion.com/resizer/Voyq0wwp7SMV59SSN7plADuZJDE=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/2WGAF2JZU5FO3CKWVZHZ34CR6A.jpg",
+        "marquesina": "",
+        "nombre_autor": "Evangelina Himitian",
+        "img_autor": "",
+        "url_nota": ""
+      },
+      {
+        "id": 13,
+        "titulo": "",
+        "volanta": "",
+        "bajada": "",
+        "img_nota": "",
+        "marquesina": "",
+        "nombre_autor": "",
+        "img_autor": "",
+        "url_nota": ""
+      },
+      {
+        "id": 14,
+        "titulo": "",
+        "volanta": "",
+        "bajada": "",
+        "img_nota": "",
+        "marquesina": "",
+        "nombre_autor": "",
+        "img_autor": "",
+        "url_nota": ""
+      },
+      {
+        "id": 15,
+        "titulo": "",
+        "volanta": "",
+        "bajada": "",
+        "img_nota": "",
+        "marquesina": "",
+        "nombre_autor": "",
+        "img_autor": "",
+        "url_nota": ""
+      }
+    ]
+  }
