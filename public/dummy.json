@@ -1,16 +1,5 @@
-
-
-
-
-
-
-
-
 {
-    "count": 15,
-    "next": "https://pokeapi.co/api/v2/pokemon/?offset=20&limit=20",
-    "previous": null,
-    "results": [
+    "data": [
       {
         "id": 1,
         "volanta": "Se conoció a la medianoche",
@@ -46,7 +35,7 @@
         "marquesina": "Opinión",
         "nombre_autor": "Diego Sánchez",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 5,
@@ -57,7 +46,7 @@
         "marquesina": "",
         "nombre_autor": "Silvia Stang",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 6,
@@ -68,7 +57,7 @@
         "marquesina": "",
         "nombre_autor": "Cecilia Devanna",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       }, 
       {
         "id": 7,
@@ -79,14 +68,14 @@
         "marquesina": "",
         "nombre_autor": "Paula Rossi",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 8,
         "volanta": "Dura columna de un hombre del Papa",
         "bajada": "Presidente, queda poco tiempo",
         "img_nota": "https://resizer.glanacion.com/resizer/0D0XD8jy9BjSd5abHTUIlUCjwlw=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/4CWAYXPSIRAJPBJGF2JWVOYBPI.jpg",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 9,
@@ -95,7 +84,7 @@
         "bajada": "En medio de la tensión política, el blue vuelve a subir y alcanza el máximo del año",
         "img_nota": "https://resizer.glanacion.com/resizer/YmRZJ6g9e1JjQW-pbYgR7WFDnS8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/QHY6MAYYVRAEDJADQITEF725Q4.jpg",
         "nombre_autor": "Melisa Reinhold",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 10,
@@ -104,7 +93,7 @@
         "bajada": "El conflicto más grave desde el colapso del 2001",
         "nombre_autor": "Claudio Jacquelin",
         "img_autor": "https://resizer.glanacion.com/resizer/hU7XX_qeTEget-87P9GXPo-qpso=/80x0/filters:quality(80)/s3.amazonaws.com/arc-authors/lanacionar/2279647.png",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 11,
@@ -115,7 +104,7 @@
         "marquesina": "",
         "nombre_autor": "Diego Cabot",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 12,
@@ -126,40 +115,40 @@
         "marquesina": "",
         "nombre_autor": "Evangelina Himitian",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 13,
         "titulo": "",
-        "volanta": "",
-        "bajada": "",
-        "img_nota": "",
+        "volanta": "La carta completa",
+        "bajada": "Cristina Kirchner le exigió al Presidente un cambio de rumbo",
+        "img_nota": "https://resizer.glanacion.com/resizer/W2doXORdjzUMWjNV-DwT4kpY0gs=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/74ZFLO2KLJC2VPYX7ZINS22WL4.jpg",
         "marquesina": "",
-        "nombre_autor": "",
+        "nombre_autor": "José María Costa",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 14,
         "titulo": "",
-        "volanta": "",
-        "bajada": "",
-        "img_nota": "",
+        "volanta": "Horas de vértigo",
+        "bajada": "La carta de Cristina Kirchner que hace explotar al Frente de Todos",
+        "img_nota": "https://resizer.glanacion.com/resizer/RkElIhahGwnwV1DEfOxiDv8DLVs=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/VHIZKNFTXRFYJN6DXQBW73SVGQ.JPG",
         "marquesina": "",
-        "nombre_autor": "",
+        "nombre_autor": "Martín Rodríguez Yebra",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       },
       {
         "id": 15,
         "titulo": "",
-        "volanta": "",
-        "bajada": "",
+        "volanta": "Vuelta a la normalidad",
+        "bajada": "Una por una, cuáles son las actividades que dejan atrás las restricciones en la ciudad",
         "img_nota": "",
         "marquesina": "",
-        "nombre_autor": "",
+        "nombre_autor": "José María Costa",
         "img_autor": "",
-        "url_nota": ""
+        "url_nota": "www.lanacion.com.ar"
       }
     ]
   }
