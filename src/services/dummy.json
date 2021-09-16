@@ -2,10 +2,13 @@
     "data": [
       {
         "id": 1,
+        "titulo": "",
         "volanta": "Se conoció a la medianoche",
         "bajada": "Cuánto costará el dólar y hasta dónde llegará la inflación según el ministro de Economía",
         "img_nota": "https://resizer.glanacion.com/resizer/fbcKFKmUDC3mVgKeClSTsYZD1-g=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/KDLRVGGM5RDBJNS35657M4LTDI.jpg",
+        "marquesina": "",
         "nombre_autor": "Francisco Jueguen",
+        "img_autor": "",
         "url_nota": "www.lanacion.com.ar"
       },
       {
@@ -14,6 +17,7 @@
         "volanta": "Última hora",
         "bajada": "Seguí en LA NACION la cobertura minuto a minuto de las tensiones en el Frente de Todos",
         "img_nota": "https://resizer.glanacion.com/resizer/3G5TqT5Q4dQfjc8rQnw6dLN-X9s=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/USONONSIUVCV7NTFDVPARBHMEE.JPG",
+        "marquesina": "",
         "nombre_autor": "Paula Rossi",
         "img_autor": "",
         "url_nota": "www.lanacion.com.ar"
@@ -24,7 +28,9 @@
         "volanta": "Última hora",
         "bajada": "El Presidente se reunió esta mañana con el gobernador sanjuanino, Sergio Uñac; Santiago Cafiero ya está en la Casa Rosada y se espera una jornada de fuertes negociaciones",
         "img_nota": "https://resizer.glanacion.com/resizer/1fX_o6yAjXm8_GjOkILfZyH5sj4=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/OXZ327HQTNFHVBILZJ2GO7IZ4I.jpg",
+        "marquesina": "",
         "nombre_autor": "Paula Rossi",
+        "img_autor": "",
         "url_nota": "www.lanacion.com.ar"
       },
       {
@@ -72,9 +78,13 @@
       },
       {
         "id": 8,
+        "titulo": "",
         "volanta": "Dura columna de un hombre del Papa",
         "bajada": "Presidente, queda poco tiempo",
         "img_nota": "https://resizer.glanacion.com/resizer/0D0XD8jy9BjSd5abHTUIlUCjwlw=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/4CWAYXPSIRAJPBJGF2JWVOYBPI.jpg",
+        "marquesina": "",
+        "nombre_autor": "Paula Rossi",
+        "img_autor": "",
         "url_nota": "www.lanacion.com.ar"
       },
       {
@@ -83,7 +93,9 @@
         "volanta": "Dólar hoy",
         "bajada": "En medio de la tensión política, el blue vuelve a subir y alcanza el máximo del año",
         "img_nota": "https://resizer.glanacion.com/resizer/YmRZJ6g9e1JjQW-pbYgR7WFDnS8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/QHY6MAYYVRAEDJADQITEF725Q4.jpg",
+        "marquesina": "",
         "nombre_autor": "Melisa Reinhold",
+        "img_autor": "",
         "url_nota": "www.lanacion.com.ar"
       },
       {
@@ -91,6 +103,8 @@
         "titulo": "",
         "volanta": "Cristina vs. Alberto",
         "bajada": "El conflicto más grave desde el colapso del 2001",
+        "img_nota": "",
+        "marquesina": "",
         "nombre_autor": "Claudio Jacquelin",
         "img_autor": "https://resizer.glanacion.com/resizer/hU7XX_qeTEget-87P9GXPo-qpso=/80x0/filters:quality(80)/s3.amazonaws.com/arc-authors/lanacionar/2279647.png",
         "url_nota": "www.lanacion.com.ar"
