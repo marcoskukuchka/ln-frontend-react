@@ -5,7 +5,7 @@ import './section.scss';
 
 
 function Section(props) {
-    console.log(props.link);
+    
     return (
         <section className="section-notasx6">
             <div className = "hero-title">
