@@ -1,7 +1,7 @@
 import React from 'react';
 import Section from './components/Section';
 
-import './app.scss';
+import './App.scss';
 import dataArticle from './services/dummy.json';
 
 
