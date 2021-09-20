@@ -5,17 +5,15 @@
     margin-right: 16px;
     margin-left: 16px;
     text-align: center;
-    border: 1px solid #ccc;
-    
-
+    border: 1px solid $borders;   
 }
+
 article{
 
     display: flex;
     flex-direction: column;
     margin-bottom: 40px;
     
-
     div{
         margin-right: 0px;
         img{
@@ -23,6 +21,7 @@ article{
             width: 100%;
         }
     }
+
     h2{
         font-family: SuecaSlab-medium;
         font-style: normal;
@@ -32,34 +31,42 @@ article{
         margin: 8px 20px 8px 16px;
         letter-spacing: -0.2px;
         color: $cardTitle;
+        @media (min-width: 768px){
+            margin-left: 0px;
+        }
 
         em{
             color: $lightBlue;
             font-style: normal;
         
         }
+
     }
+
     p{
         margin-left: 16px;
         margin-right: 22px;
         font-family: Arial;
         font-size: 16px;
         line-height: 24px;
+
+        @media (min-width: 768px){
+            margin-left: 0px;
+        }
     }
 }
 
-.border-bottom{
-    //border-bottom: 1px solid #000;
-    border-top:1px solid #5A5A5A;
-    width:70px;
-    height:1px;   
-    position:absolute;
-    left: calc(50% - 80px/2);
+.center{
+    @media (min-width: 768px){
+        margin-left: 16px;
+        margin-right: 16px;
+        text-align: center;
+    }
 }
 
 .autor-container{
     font-weight: bold;
-    margin-top: 8px;
+    padding-top: 38px;
     margin-bottom: 15px;
     display: flex;
     flex-direction: column;
@@ -71,6 +78,8 @@ article{
         border-radius: 200px;
     }
 }
+
+
 .hero_img{
     margin-right: 8px;
 }
@@ -83,7 +92,9 @@ article{
         font-size: 14px;
         line-height: 16px;
         padding-left: 16px;
-
+        @media (min-width: 768px){
+            padding-left: 0px;
+        }
     }
 
 }

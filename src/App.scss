@@ -1,25 +1,8 @@
 @import "./styles/variables/variables.scss";
-@font-face {
-    src: url("./fonts/sueca-slab-regular-web.woff.ttf")
-      format("ttf");
-    font-family: "SuecaSlab-regular";
-    font-weight: 400px;
-    font-style: normal;
-  }
 
-  @font-face {
-    src: url("./fonts/suecaslab-medium.woff")
-      format("woff");
-    font-family: "SuecaSlab-medium";
-    font-weight: 400px;
-    font-style: normal;
-  }
 
-  @font-face {
-    src: url("./fonts/suecaslab-bold.woff")
-      format("woff");
-    font-family: "SuecaSlab-bold";
-    font-weight: 400px;
-    font-style: normal;
+  .App{
+    width: 100%;
+    min-width: 320px;
   }
   

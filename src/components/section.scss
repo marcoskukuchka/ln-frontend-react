@@ -1,2 +1,41 @@
 @import "../styles/reset.scss";
 @import "../styles/variables/variables.scss";
+
+
+.section-notasx6{
+    max-width: 920px;
+    margin: auto;
+   
+    
+}
+.section-grid{
+    @media (min-width: 768px){
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 16px;
+        margin-left: 16px;
+        justify-content: center;
+    }
+   
+}
+
+.hero-title{
+    
+    border-bottom: 1px solid $borders;
+    margin: 40px 16px 17px 16px;
+    padding-bottom: 8px;
+   
+    h1{
+        font-family: SuecaSlab-bold;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: -0.4px;
+        color: $mainTitle;
+        
+    }
+    
+}
+
+

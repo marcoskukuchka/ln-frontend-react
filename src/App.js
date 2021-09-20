@@ -1,17 +1,17 @@
-import dataArticle from './services/dummy.json';
 import React from 'react';
-import Article from './components/Article';
+import Section from './components/Section';
+
 import './app.scss';
+import dataArticle from './services/dummy.json';
 
 
 function App() {
-//console.log(dataArticle.data);
+  
+//console.log(dataArticle.data[0]);
 //const data = dataArticle;
   return (
     <div className="App">
-      {
-        dataArticle.data.map(singleArticle => <Article  key={singleArticle.id} article = {singleArticle} />)
-      }
+      <Section title = "Opinión" link = {true} url = "#" articles = {dataArticle} />
     </div>
   );
 }
